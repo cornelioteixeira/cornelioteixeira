@@ -1,4 +1,4 @@
-# Olá, eu sou [Cornelio Teixeira] 👋
+# Olá, eu sou <strong>Cornelio Teixeira</strong> 👋
 ### Desenvolvedor Full Stack | Especialista em IA & Interfaces Modernas
 
 <p align="center">
@@ -48,5 +48,5 @@ Sou um desenvolvedor apaixonado por criar soluções inteligentes que desafiam a
 
 ## 📫 Conecte-se comigo
 <p align="left">
-<a href="mailto:cornelioteixeira226@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  📧 **E-mail:** [cornelioteixeira226@gmail.com](mailto:cornelioteixeira226@gmail.com)
 </p>
