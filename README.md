@@ -39,13 +39,6 @@ Sou um desenvolvedor apaixonado por criar soluções inteligentes que desafiam a
 
 ---
 
-## 🐍 Contribuições (Snake Game)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cornelioteixeira/cornelioteixeira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📫 Conecte-se comigo
 <p align="left">
   E-mail: cornelioteixeira226@gmail.com
