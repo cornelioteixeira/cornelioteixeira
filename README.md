@@ -48,5 +48,5 @@ Sou um desenvolvedor apaixonado por criar soluções inteligentes que desafiam a
 
 ## 📫 Conecte-se comigo
 <p align="left">
-  📧 **E-mail:** [cornelioteixeira226@gmail.com](mailto:cornelioteixeira226@gmail.com)
+  E-mail: cornelioteixeira226@gmail.com
 </p>
